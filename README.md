@@ -17,4 +17,18 @@ Welcome to our repository of data analysis projects! This collection showcases a
 - **Matplotlib, Seaborn & Plotly**: Visualizations.
 - **SciPy & Statsmodels**: Statistical analysis.
 
+  
+- - **Non-Paramentric Methods on Dementia Dataset**:Explores the Dementia Dataset using various statistical and visualisation techniques.
+
+#### Features:
+-- Explores the dementia dataset using various statistical and visualization techniques.
+- Performed EDA to understand the distribution of variables.
+- Applied non-parametric methods to analyze relationships and differences between groups.
+
+#### Tools and Libraries:
+- **Python**: Core programming language for all projects.
+- **Pandas & NumPy**: Data manipulation and numerical operations.
+- **Matplotlib, Seaborn & Plotly**: Visualizations.
+- **SciPy & Statsmodels**: Statistical analysis.
+
 Explore each project to gain insights into various data analysis techniques and methodologies. Whether you're a data science enthusiast or a seasoned professional, this collection offers valuable resources for learning and application. Enjoy exploring and analyzing data with us!
